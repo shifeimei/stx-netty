@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SmartFoxWorkToolsProjectState">
+    <option name="branch" value="master" />
+    <option name="gitUrl" value="https://github.com/shifeimei/stx-netty.git" />
+    <option name="localBranch" value="master" />
+    <option name="revision" value="7a2b28a2d98fedc6924237293e0587ae56e86b5e" />
+  </component>
+</project>
